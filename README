@@ -1,0 +1,22 @@
+README Assignment 2: Tutnese Translation Continued
+
+1) Luis Rivas
+   2365948
+   lrivas@chapman.edu
+   CPSC 350-03
+   Assignment 2: Tutnese Translation Continued
+
+2) Model.h
+   Model.cpp
+   Translator.h
+   Translator.cpp
+   FileProcessor.h
+   FileProcessor.cpp
+   main.cpp
+
+3) No errors or deviations from the assignment specification
+
+4) Worked alone.
+
+5) g++ *.cpp
+   ./a.out
